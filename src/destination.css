@@ -1,0 +1,63 @@
+.des{
+    display:flex;
+}
+.hotel1{
+    width:300px;
+    height:300px;
+    
+    margin-top: 90px;
+    margin-left: 50px;
+    box-shadow: 5px 5px 20px rgba(0,0,0,.7);
+    
+}
+.des1{
+    background-image: url("../public/des1.jpeg");
+    background-size: cover;
+    width:300px;
+    height: 200px;
+}
+.cbe{
+    padding-left: 60px;
+}
+.des2{
+    background-image: url("../public/des2.jpeg");
+    background-size: cover;
+    width:300px;
+    height: 200px;
+}
+.des3{
+    background-image: url("../public/des3.jpeg");
+    background-size: cover;
+    width:300px;
+    height: 200px;
+}
+.des4{
+    background-image: url("../public/des4.jpeg");
+    background-size: cover;
+    width:300px;
+    height: 200px;
+}
+.des5{
+    background-image: url("../public/des5.jpeg");
+    background-size: cover;
+    width:300px;
+    height: 200px;
+}
+.des6{
+    background-image: url("../public/des6.jpeg");
+    background-size: cover;
+    width:300px;
+    height: 200px;
+}
+.des7{
+    background-image: url("../public/des7.jpeg");
+    background-size: cover;
+    width:300px;
+    height: 200px;
+}
+.des8{
+    background-image: url("../public/des8.jpeg");
+    background-size: cover;
+    width:300px;
+    height: 200px;
+}

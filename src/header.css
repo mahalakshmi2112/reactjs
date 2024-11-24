@@ -1,0 +1,48 @@
+.header{
+display: flex;
+background-color: black;
+}
+
+.wow{
+  float: left;
+color: indianred;
+}
+
+
+   ul{
+    list-style-type: none;
+    margin:0px;
+    padding:0px;
+    overflow:hidden;
+    margin-left: 900px;
+    line-height: 60px;
+} 
+
+  li {
+    display:inline-block;
+    text-decoration: none;
+    padding:10px 2px;
+    color: white;
+}
+.nav-item{
+  text-decoration: none;
+  color: white;
+  padding: 10px;
+
+}
+.nav-item:hover{
+  color:indianred ;
+  text-decoration: underline;
+  
+}
+
+
+   
+ 
+
+
+
+
+
+
+

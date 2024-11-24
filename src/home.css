@@ -1,0 +1,64 @@
+.home{
+    color: indianred;
+}
+.fullcon{
+    display: flex;
+}
+.img{
+    background-image: linear-gradient(rgba(0,0,0,.3),rgba(0,0,0,.6)),url("../public/home1.jpeg");
+    width:1440px;
+    height: 752px;
+    background-repeat:no-repeat;
+    margin-top: -10px;
+    background-size: cover;
+   
+    
+}
+.discover{
+    color:white;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight: 400;
+    font-size: 40px;
+    padding-left: 250px;
+    padding-top:150px ; 
+}
+.client{
+    color: white;
+    padding-left: 250px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+.table1{
+    
+    width: 490px;
+    height: 500px;
+    background-color: white;
+    margin-top: 100px;
+    margin-left: 50px;
+    box-shadow: 10px 10px 20px rgba(0,0,0,.5);
+}
+.fullcon{
+    display: flex;
+}
+.book{
+    /* padding-left: 70px; */
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    
+}
+.submit{
+    padding:7px 20px;
+    margin-top: 40px;
+    margin-left: 90px;
+    background-color: black;
+    color:white;
+    border: none;
+    cursor: pointer;
+}
+.text{
+    margin-top: 10px;
+    margin-left: 50px;
+    padding-bottom: 2px;
+    padding-top: 5px;
+}
+
+
